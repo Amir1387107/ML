@@ -32,4 +32,9 @@ you open command prop
 
 >>git checkout fixing #log you in the fixing branch
 
+>>git merge fixing #while you are in master you can merge fixing branch
+
+>>git rm filename #delete the file
+
+
 
