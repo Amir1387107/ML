@@ -47,8 +47,10 @@ you open command prop
 
 >>git clone https://github.com/jadijadi/titap_mystry.git
 
+>>git remote add origin https://github.com/jadijadi/titap_mystry.git
 
 
+>>git pull origin master
 
 
 
