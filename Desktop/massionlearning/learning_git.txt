@@ -34,4 +34,11 @@ you open command prop
 
 >>cat file #shows you what is in file
 
+>>git merge fixing #while you are in master you can merge fixing branch
+
+>>git rm filename #delete the file
+
+>>git branch -d fixing #deletes fixing
+
+
 
