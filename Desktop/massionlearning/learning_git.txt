@@ -1,0 +1,35 @@
+In the name of God
+
+you open command prop
+
+>>git init Desktop/massionlearning
+
+>>git status     #get the information
+
+>> git add Desktop/massionlearning/amar.py     #add the file to git
+
+>> git commit -m "amar.py file created"    # say some infos
+
+>>git config --global user.email "you@example.com"    and  git config --global user.name "your name"
+
+>>git add -A   # add everything
+
+>>git add "file name . ..."  #when you changed a file and its not staged
+
+>>git log # shows you your commits
+
+>>git diff HEAD #shows you what is git working on now
+>>git diff --staged #shows you what fchanged in stages
+
+
+>> git reset "file x"   #reset it back to unstaged
+
+>> git checkout "file x" #bring the "file x" back to its last stage
+
+>> git branch #the branch you are working on
+
+>> git branch fixing #making a new branch in the name of fixing
+
+
+
+
