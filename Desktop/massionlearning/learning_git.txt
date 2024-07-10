@@ -33,4 +33,3 @@ you open command prop
 >>git checkout fixing #log you in the fixing branch
 
 
-
