@@ -32,4 +32,6 @@ you open command prop
 
 >>git checkout fixing #log you in the fixing branch
 
+>>cat file #shows you what is in file
+
 
