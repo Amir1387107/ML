@@ -30,6 +30,7 @@ you open command prop
 
 >> git branch fixing #making a new branch in the name of fixing
 
+>>git checkout fixing #log you in the fixing branch
 
 
 
