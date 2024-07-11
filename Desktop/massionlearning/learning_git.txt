@@ -54,4 +54,5 @@ you open command prop
 
 >>git show commitaddres  #shows you what was the commit
 
+>>git tag -a v2 #makes you a new version that you can use it later
 
