@@ -52,5 +52,6 @@ you open command prop
 
 >>git pull origin master
 
+>>git show commitaddres  #shows you what was the commit
 
 
